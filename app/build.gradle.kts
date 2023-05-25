@@ -110,6 +110,7 @@ dependencies {
 
     implementation(libs.googlemaps.maps)
     implementation(libs.googlemaps.compose)
+    implementation ("androidx.lifecycle:lifecycle-runtime-compose:2.6.1")
 
     implementation(libs.androidx.appcompat)
     implementation(libs.androidx.activity.compose)
